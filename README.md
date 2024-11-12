@@ -2,6 +2,12 @@
 
 **CouponOptimizer** is a Python tool designed to help shoppers maximize their savings during online sales events by optimizing the use of multiple coupons with different thresholds and benefits.
 
+## To run this notebook in colab click button 
+
+<a target="_blank" href="https://colab.research.google.com/github/dmytrovskyi/11-11-aliexpress-promo-code-optimizer/blob/main/calculator.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Overview
 
 During major online sales events like Singles' Day (11.11), shoppers often have access to multiple coupons with varying thresholds and benefits. Managing these coupons effectively can be challenging, especially when aiming to minimize total spending while maximizing discounts.
